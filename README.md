@@ -6,8 +6,6 @@
 and with each other?** The project tests this for an emerging market (Poland, WIG20) and a developed market
 (USA, S&P 500) on monthly, quarterly and weekly data from public APIs and official statistics.
 
-*Extended from my bachelor's thesis (University of Warsaw, Faculty of Economic Sciences, 2025), originally written in R.*
-
 **Tools:** Python · pandas · NumPy · statsmodels · arch · SciPy · matplotlib · REST APIs (NBP, Eurostat, FRED, BLS, Yahoo Finance)
 
 ![Indices and USD/PLN](figures/01_markets.png)
