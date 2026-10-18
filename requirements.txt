@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.7
+statsmodels>=0.14,<0.16
+arch>=6.0
+yfinance>=0.2.40
+requests>=2.31
+openpyxl>=3.1
